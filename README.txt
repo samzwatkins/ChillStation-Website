@@ -1,8 +1,12 @@
 Tessellate by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+====================================================================================
+We are using Tessellate (Based on Skel Web Framework) as a basis for our website due to 
+it's fast responsive design and excellent grid system make it perfect for rapid prototyping.
 
-
+It uses a Cassandra Database as a backend to store user data and Java Servlets.
+====================================================================================
 This is Tessellate, a brand new responsive site template by AJ (aka n33) for HTML5 UP.
 It's a single pager (a format I'm pretty into right now), has styling for a crapload
 of basic elements, and includes a handy "dark" modifier class to flip a given element
